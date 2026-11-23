@@ -9,7 +9,7 @@ A PHP library to work with immutable quaternions for 3D rotations.
 
 ## Documentation
 
-The full documentation is at https://phpmath.github.io/quaternion/. Every release is described on the [releases page](https://github.com/phpmath/quaternion/releases).
+The full documentation is at https://phpmath.github.io/quaternion/. Every change is listed in the [changelog](CHANGELOG.md) and every release on the [releases page](https://github.com/phpmath/quaternion/releases).
 
 ## Install
 
